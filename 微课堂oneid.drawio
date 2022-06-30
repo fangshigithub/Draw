@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T09:47:17.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="rHKSNH7Ao8FSsb7vN0MH" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T10:30:03.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="qnNc33OqexhhvuXDlSji" version="20.0.4" type="github">
   <diagram id="2PEZ7O8ayT3eDN4t_Y4-" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6o-6Wydf1xBvO6V52gV8-1" value="微信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="6o-6Wydf1xBvO6V52gV8-1" value="弹窗微信授权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6o-6Wydf1xBvO6V52gV8-2" value="微课堂APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
