@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T07:38:58.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="nIJXi8lOIC_UsjN_py0O" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T07:40:39.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="hh6CHrhb20XVmmjI4aXe" version="18.1.3" type="github">
   <diagram id="5G5pLSB4752_J3kw6D5k" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oWquUahyqCNIXPOBKiYZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="oWquUahyqCNIXPOBKiYZ-3" value="H5分享" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWquUahyqCNIXPOBKiYZ-1" target="oWquUahyqCNIXPOBKiYZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWquUahyqCNIXPOBKiYZ-1" value="微课堂APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWquUahyqCNIXPOBKiYZ-5" value="用户打开" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWquUahyqCNIXPOBKiYZ-2" target="oWquUahyqCNIXPOBKiYZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWquUahyqCNIXPOBKiYZ-2" value="微信环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWquUahyqCNIXPOBKiYZ-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
